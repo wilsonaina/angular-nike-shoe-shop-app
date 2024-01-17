@@ -1,5 +1,9 @@
 # DaNikeSpotApp
 
+<img src="./src/assets/images/nike_screenshot_1.png" alt="nike image 1">
+<img src="./src/assets/images/nike_screenshot_2.png" alt="nike image 2">
+<img src="./src/assets/images/nike_screenshot_3.png" alt="nike image 3">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
